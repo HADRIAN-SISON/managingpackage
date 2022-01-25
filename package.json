@@ -1,6 +1,6 @@
  {
   "name": "package.json",
-  "author": "HADRIAN SISON",
+  "author": "hadrian sison",
   "dependencies": {
     "express": "^4.14.0"
   },
